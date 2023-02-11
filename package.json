@@ -1,0 +1,23 @@
+{
+  "name": "jest-training",
+  "version": "1.0.0",
+  "description": "jest-training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimRux/jest-training.git"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimRux/jest-training/issues"
+  },
+  "homepage": "https://github.com/DimRux/jest-training#readme",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
